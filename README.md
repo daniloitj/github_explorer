@@ -15,3 +15,5 @@ In the project directory, you can run:
 ### `yarn add polished `
 
 ### ` yarn add react-icons `
+
+### ` yarn add axios `
